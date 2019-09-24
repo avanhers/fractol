@@ -16,7 +16,7 @@ Execute the program with the name of the fractal you want : ./fractol burning_sh
 2 : original color
 3 : a "nice random color theme"
 4 : totally random colors
-+ : increase maximum iteration
+"+" : increase maximum iteration
 - : decrase maximum iteration
 ESC : quit the program
 mouse wheel : zoom and dezoom
