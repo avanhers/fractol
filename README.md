@@ -1,5 +1,6 @@
 # Fractol
 
+![screenshot](/screenshot/mandelbrot?raw=true)
 A multithreaded fractal renderer.
 
 ## Features 
