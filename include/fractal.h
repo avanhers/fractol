@@ -6,7 +6,7 @@
 /*   By: avanhers <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/05/03 13:43:45 by avanhers          #+#    #+#             */
-/*   Updated: 2019/05/10 18:39:47 by avanhers         ###   ########.fr       */
+/*   Updated: 2019/09/24 15:20:50 by avanhers         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define FRACTAL_H
 
 # include <pthread.h>
+# include "../libft/libft.h"
 
 # define WIN_WIDTH 800
 # define WIN_HEIGHT 800

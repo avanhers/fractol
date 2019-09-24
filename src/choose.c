@@ -6,12 +6,11 @@
 /*   By: avanhers <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/05/06 17:25:05 by avanhers          #+#    #+#             */
-/*   Updated: 2019/05/10 18:00:42 by avanhers         ###   ########.fr       */
+/*   Updated: 2019/09/24 15:13:09 by avanhers         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fractal.h"
-#include "libft/libft.h"
 
 void	set_fract_fun(t_fract_f fract_fu[8])
 {

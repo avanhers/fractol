@@ -6,13 +6,12 @@
 /*   By: avanhers <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/05/03 13:15:02 by avanhers          #+#    #+#             */
-/*   Updated: 2019/05/10 18:09:44 by avanhers         ###   ########.fr       */
+/*   Updated: 2019/09/24 15:20:59 by avanhers         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "mlx.h"
 #include "fractal.h"
-#include "libft/libft.h"
 #include "stdlib.h"
 
 static int	init_env(t_env *env)

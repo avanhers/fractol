@@ -6,7 +6,7 @@
 #    By: avanhers <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/02 09:08:23 by avanhers          #+#    #+#              #
-#    Updated: 2019/05/09 15:49:59 by avanhers         ###   ########.fr        #
+#    Updated: 2019/09/24 15:28:58 by avanhers         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -91,5 +91,5 @@ fclean : clean
 	@echo "\033[31m$(NAME) is deleted\033[0m"
 
 re : fclean all
-
+.SILENT:
 .PHONY : clean re all fclean
